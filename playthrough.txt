@@ -1,0 +1,16 @@
+take pole
+go out
+go south
+catch fish with pole
+go east
+take key
+go east
+unlock door
+go in
+take knife
+go out
+go west
+go west
+go south
+go south
+attack lion
